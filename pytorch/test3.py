@@ -20,5 +20,3 @@ mydataset = Mydataset();
 print(mydataset[0])
 
 train_data = DataLoader(mydataset,batch_size=2,shuffle=False)
-
-for 
